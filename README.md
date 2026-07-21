@@ -120,6 +120,7 @@ Communication Sequence:
 2. Build the project.
 3. Generate the HEX file.
 4. Flash the LPC2148 using Flash Magic.
+<img width="1500" height="1999" alt="IMG_20260721_235814 jpg" src="https://github.com/user-attachments/assets/e02992dd-c754-4a6c-886e-c77132ca0374" />
 
 ### Linux Side
 
