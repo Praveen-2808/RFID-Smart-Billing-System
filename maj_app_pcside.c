@@ -34,10 +34,14 @@
 
 /* When TEST_MODE is defined, card data is entered manually from the
    keyboard instead of being read from the UART/serial hardware. */
-//#define TEST_MODE
+
+// Uncomment to enable testing without the LPC2148 controller.
+//#define TEST_MODE 
 
 /* Card number that unlocks the manager menu (stock entry/update). */
-char manager_card[10]="12608170";
+// Manager RFID Card ID
+// Replace "12608170" with your manager's RFID card ID before running the project.
+char manager_card[10] = "12608170";
 
 /* Represents one item currently in a customer's shopping cart. */
 struct cart
