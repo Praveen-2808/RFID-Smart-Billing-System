@@ -38,7 +38,7 @@
  * rx_buff: raw response received from the PC side over UART0.
  * msg: formatted outgoing message sent to the PC side.
  * item_name: name of the most recently looked-up item (parsed from rx_buff). */
-s8 buff[30],rfid[30],rx_buff[50],msg[30],item_name[30];
+s8 buff[30],send_buff[30],rfid[30],rx_buff[50],msg[30],item_name[30];
 s8 op;   /* currently selected payment-menu option ('1'=cash,'2'=card,'3'=cancel) */
 /* Event flags, set by the ISRs (interrupt_isr.c) and cleared by the main
  * loop once handled:
@@ -251,7 +251,8 @@ int main()
 					 * card ID to the PC side for lookup, briefly pulse
 					 * P0.2 (buzzer/indicator) to acknowledge the scan,
 					 * then show the scanned card ID on the LCD. */
-					U0_send(buff);
+					sprintf(send_buff,"R%s",buff);
+                    U0_send(send_buff);
 					IOSET0=1<<2;
 					delay_ms(1000);
 					IOCLR0=1<<2;
