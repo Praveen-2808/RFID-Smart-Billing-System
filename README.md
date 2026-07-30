@@ -122,6 +122,7 @@ Communication Sequence:
 4. Flash the LPC2148 using Flash Magic.
 <img width="1599" height="1599" alt="WhatsApp Image 2026-07-22 at 12 04 09 AM" src="https://github.com/user-attachments/assets/c232ef04-7ab3-40ac-9e4e-ebc62c32cfce" />
 
+### Linux Side
 1. Connect the UART cable.
 2. Compile the Linux application.
 3. Start the database program.
