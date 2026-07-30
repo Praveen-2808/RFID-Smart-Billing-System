@@ -281,6 +281,7 @@ int main()
 						cmdLCD(GOTO_LINE2_POS0);
 						strLCD("delete Add items");
 						delay_s(2);
+						cmdLCD(CLEAR_LCD);
 						strLCD("Place card and");
 						cmdLCD(GOTO_LINE2_POS0);
 						strLCD("Add items");
