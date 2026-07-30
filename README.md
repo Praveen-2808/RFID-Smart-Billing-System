@@ -128,6 +128,8 @@ Communication Sequence:
 3. Start the database program.
 4. Scan RFID tags.
 5. View billing information.
+<img width="1600" height="575" alt="image" src="https://github.com/user-attachments/assets/8b02988b-8a09-468f-8717-2f7670b9cbc6" />
+
 
 ---
 
