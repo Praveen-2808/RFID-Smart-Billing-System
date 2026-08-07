@@ -95,7 +95,7 @@ Communication Sequence:
 - USB-UART Converter
 - Linux PC
 - Power Supply
-  <img width="1254" height="1254" alt="rfid_cards_1" src="https://github.com/user-attachments/assets/6c2e8d8a-ebf2-4847-9365-532d56a4bbfd" />
+  <img width="1200" height="1100" alt="rfid_cards_1" src="https://github.com/user-attachments/assets/6c2e8d8a-ebf2-4847-9365-532d56a4bbfd" />
 
 ---
 
