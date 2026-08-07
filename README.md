@@ -95,6 +95,7 @@ Communication Sequence:
 - USB-UART Converter
 - Linux PC
 - Power Supply
+  <img width="1254" height="1254" alt="rfid_cards_1" src="https://github.com/user-attachments/assets/6c2e8d8a-ebf2-4847-9365-532d56a4bbfd" />
 
 ---
 
@@ -116,7 +117,6 @@ Communication Sequence:
 2. Build the project.
 3. Generate the HEX file.
 4. Flash the LPC2148 using Flash Magic.
-<img width="1599" height="1599" alt="WhatsApp Image 2026-07-22 at 12 04 09 AM" src="https://github.com/user-attachments/assets/c232ef04-7ab3-40ac-9e4e-ebc62c32cfce" />
 
 ### Linux Side
 1. Connect the UART cable.
