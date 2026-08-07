@@ -72,8 +72,6 @@ The RFID reader scans the product tag and sends the Tag ID to the LPC2148. The m
 
 ## UART Communication
 
-<img width="1536" height="1024" alt="ChatGPT Image Jul 8, 2026, 07_48_53 PM" src="https://github.com/user-attachments/assets/d39906f4-7c18-452f-af57-a00d6fd740d4" />
-
 The LPC2148 exchanges product information with the Linux PC through UART communication.
 
 Communication Sequence:
@@ -95,6 +93,7 @@ Communication Sequence:
 - USB-UART Converter
 - Linux PC
 - Power Supply
+  
   <img width="1200" height="900" alt="rfid_cards_1" src="https://github.com/user-attachments/assets/6c2e8d8a-ebf2-4847-9365-532d56a4bbfd" />
 
 ---
