@@ -33,8 +33,7 @@ This project demonstrates practical implementation of embedded firmware, serial 
 ---
 
 ## System Architecture
-
-<img width="1774" height="887" alt="ChatGPT Image Jul 8, 2026, 07_48_28 PM" src="https://github.com/user-attachments/assets/bd93ccbf-bd51-4802-b03f-267f66bade96" />
+<img width="1536" height="1024" alt="ChatGPT Image Aug 8, 2026, 12_20_44 AM" src="https://github.com/user-attachments/assets/0e03dfaf-890a-4c21-bb5f-054877576090" />
 
 
 The RFID reader scans the product tag and sends the Tag ID to the LPC2148. The microcontroller processes the request, communicates with the Linux database using UART, receives the product information, displays it on the LCD, and updates the billing data.
