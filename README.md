@@ -42,7 +42,7 @@ The RFID reader scans the product tag and sends the Tag ID to the LPC2148. The m
 
 ## Project Workflow
 
-<img width="1774" height="887" alt="ChatGPT Image Jul 8, 2026, 07_48_37 PM" src="https://github.com/user-attachments/assets/90679bed-837b-4f8c-b738-7cf4af4428e5" />
+<img width="1024" height="1536" alt="workflow_1" src="https://github.com/user-attachments/assets/cfcecae6-1bf1-4283-892c-f9dce4ea2235" />
 
 ### Workflow
 <img width="1536" height="1024" alt="ChatGPT Image Jul 8, 2026, 08_55_48 PM" src="https://github.com/user-attachments/assets/5f3066e7-e1f8-4734-b92c-e43e18290a94" />
