@@ -45,7 +45,7 @@ The RFID reader scans the product tag and sends the Tag ID to the LPC2148. The m
 <img width="1024" height="1000" alt="workflow_1" src="https://github.com/user-attachments/assets/cfcecae6-1bf1-4283-892c-f9dce4ea2235" />
 
 ### Workflow
-<img width="1024" height="1536" alt="flow_visual" src="https://github.com/user-attachments/assets/b4d63c4e-21fd-400c-bb95-af54e7f7fc53" />
+<img width="1024" height="1100" alt="flow_visual" src="https://github.com/user-attachments/assets/b4d63c4e-21fd-400c-bb95-af54e7f7fc53" />
 
 1. Scan RFID Tag
 2. Read Tag ID
