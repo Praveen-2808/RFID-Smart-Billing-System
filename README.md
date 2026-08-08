@@ -55,9 +55,9 @@ The RFID reader scans the product tag and sends the Tag ID to the LPC2148. The m
 
 ---
 
-## Hardware Block Diagram
+## Hardware 
 
-<img width="1428" height="1071" alt="WhatsApp Image 2026-07-21 at 11 25 19 PM" src="https://github.com/user-attachments/assets/cfb90d07-da7f-4a57-ab8c-43c92d22cad1" />
+<img width="1448" height="1086" alt="controller" src="https://github.com/user-attachments/assets/301e5a38-9ce0-4d22-beef-b52df84ebdb5" />
 
 ### Hardware Components
 
